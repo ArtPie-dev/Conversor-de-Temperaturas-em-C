@@ -1,2 +1,4 @@
 # Conversor-de-Temperaturas-em-C
-Projeto acadêmico em C que converte temperaturas entre Celsius, Fahrenheit e Kelvin, aplicando lógica de programação, funções e estruturas condicionais de forma prática.
+Este repositório apresenta a atividade acadêmica Conversor de Temperaturas em C, cujo objetivo é aplicar conceitos fundamentais da linguagem C na criação de um programa capaz de realizar conversões entre diferentes escalas de temperatura. O funcionamento é simples e interativo: ao executar o programa, o usuário acessa um menu no terminal que permite escolher a conversão desejada, tornando o aprendizado prático e direto.
+
+As opções implementadas incluem conversões entre Celsius, Fahrenheit e Kelvin, cobrindo os principais usos no cotidiano e em contextos científicos. Para executar o programa, basta clonar o repositório, compilar o código com um compilador C (por exemplo, gcc conversor.c -o conversor) e rodar o arquivo gerado no terminal (./conversor). Assim, o usuário pode explorar as funcionalidades e compreender melhor a lógica de programação aplicada às transformações de unidades.
